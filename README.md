@@ -1,5 +1,4 @@
-# itland-nft-project-example
-Educational example of NFT fundraising project
+# molecula-nft-project-example
 
 To use project:
 1) deploy contract from /contracts (i. e. via Remix IDE)
