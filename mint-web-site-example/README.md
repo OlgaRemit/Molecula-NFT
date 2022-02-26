@@ -1,7 +1,5 @@
 ## Sign NFT minting
 
-Example of minting with injectable ethereum wallet
-
 ### Installation
 
 - `yarn install` - install all project dependencies
